@@ -1,0 +1,30 @@
+{
+  "name": "grokking-algorithms",
+  "version": "1.0.0",
+  "description": "JS solution for code examples from 'Grokking Algorithms'",
+  "main": "",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "*",
+    "@babel/preset-env": "*",
+    "babel-eslint": "*",
+    "babel-jest": "*",
+    "eslint": "*",
+    "eslint-config-airbnb-base": "*",
+    "eslint-plugin-import": "*",
+    "jest": "*"
+  },
+  "scripts": {
+    "test": "jest",
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "keywords": [
+    "grokking",
+    "algorithms",
+    "javascript"
+  ],
+  "author": "Oleg Kononov",
+  "license": ""
+}
