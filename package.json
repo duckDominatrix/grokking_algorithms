@@ -3,19 +3,19 @@
   "version": "1.0.0",
   "description": "JS solution for code examples from 'Grokking Algorithms'",
   "main": "",
-  "dependencies": {},
   "devDependencies": {
-    "@babel/core": "*",
-    "@babel/preset-env": "*",
-    "babel-eslint": "*",
-    "babel-jest": "*",
-    "eslint": "*",
-    "eslint-config-airbnb-base": "*",
-    "eslint-plugin-import": "*",
-    "jest": "*"
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "babel-eslint": "^10.0.3",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "jest": "^24.9.0"
   },
   "scripts": {
     "test": "jest",
+    "lint": "eslint"
   },
   "jest": {
     "testEnvironment": "node"
