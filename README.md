@@ -14,7 +14,7 @@
 ___________________________________
 ## This is the algorithms code implementing in JavaScript from book ["Grokking Algorithms"](https://www.manning.com/books/grokking-algorithms)
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/9a6591b2a6a01203d787/maintainability)](https://codeclimate.com/github/duckDominatrix/grokking_algorithms/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/7f7ee592b765fe8cf68a/maintainability)](https://codeclimate.com/github/kononovit/grokking_algorithms/maintainability)
 
 ### For implementing I use
 -  Language: JavaScript ES6
