@@ -27,9 +27,9 @@ You can use the environment configuration template for  your own code implementi
 
 For using you need install the [Node.js](https://nodejs.org/en/download/).
 
-## Using command line
-### Installation
-```bash 
+## Installation
+```bash
+git clone https://github.com/kononovit/grokking_algorithms.git
 cd /path_to_working_directory
 make install
 ```
