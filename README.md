@@ -29,8 +29,8 @@ For using you need install the [Node.js](https://nodejs.org/en/download/).
 
 ## Installation
 ```bash
-git clone https://github.com/kononovit/grokking_algorithms.git
 cd /path_to_working_directory
+git clone https://github.com/kononovit/grokking_algorithms.git
 make install
 ```
 ### Lint
